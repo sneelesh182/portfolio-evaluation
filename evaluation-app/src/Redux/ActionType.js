@@ -1,0 +1,4 @@
+export const SOLIDS='SOLIDS'
+export const LINEAR_GRADIENT='LINEAR_GRADIENT'
+export const RADIAL_GRADIENT='RADIAL_GRADIENT'
+export const SET_BG='SET_BG'
